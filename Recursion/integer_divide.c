@@ -1,7 +1,6 @@
 #include <stdio.h>
 
 int func(int divide_num, int max_num){
-//	if(1 == divide_num && 1 == max_num)      error
 	if(1 == divide_num || 1 == max_num)
 		return 1;
 	else if(divide_num < max_num)
