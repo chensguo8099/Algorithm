@@ -9,8 +9,7 @@ int func(int divide_num, int max_num){
 	else if(divide_num == max_num)
 		return func(divide_num, divide_num - 1) + 1;
 	else if(divide_num > max_num && max_num > 1)
-		return func(divide_num, max_num - 1) + func(divide_num - max_num, \
-																max_num);
+		return func(divide_num, max_num - 1) + func(divide_num - max_num, max_num);
 }
 
 int main(){
