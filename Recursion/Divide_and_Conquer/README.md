@@ -15,3 +15,7 @@
 2-3(有重复元素的排列问题)
 问题描述：设R={r1, r2, ..., rn}是要进行排列的n个元素，r1, r2, ..., rn可能相同。试设计一个算法，列出R的所有不同排列。
 参考资料：www.cnblogs.com/dztgc/archive/2014/04/20/3033059.html
+
+bubblesort.c（冒泡排序）
+
+mergesort.c（归并排序）
