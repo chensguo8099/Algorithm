@@ -1,10 +1,11 @@
 #include <stdio.h>
+#if 0
 #include <unistd.h>
 #include <string.h>
 #include <sys/types.h>
 #include <sys/stat.h>
 #include <fcntl.h>
-
+#endif
 int set(int num){
 	int i = 1;
 	int cnt = 1;
