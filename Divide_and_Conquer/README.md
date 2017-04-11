@@ -32,14 +32,14 @@
 ## full_permutation.c
 ###### 多个字符的全排列
 
-## hannoi.c
+## hannoi.c（汉诺塔问题）
 ###### 汉诺塔问题
 
-## integer_divide.c
+## integer_divide.c（整数分解问题）
 ###### 整数分解问题
 
-## chessboard.cpp
+## chessboard.cpp（棋盘问题）
 ###### 在2^n * 2^n个方格组成的棋盘中若恰有一个方格与其他方格不同，则称该方格为一特殊方格，且该棋盘为一特殊棋盘（脏位）。用递归分治的策略可以设计棋盘覆盖问题。
 
-## round-robin_schedule.cpp
+## round-robin_schedule.cpp（循环赛日程安排）
 ###### 循环赛日程安排表
