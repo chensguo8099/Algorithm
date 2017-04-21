@@ -1,3 +1,7 @@
+/******************
+ * 最长公共子序列 *
+ * ****************/
+
 #include <iostream>
 #include <string.h>
 #include <stdio.h>
